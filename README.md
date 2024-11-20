@@ -1,1 +1,1 @@
-![Dessert img](./imgDessertClicker)
+![Dessert img](./imgDessertClicker.png)
